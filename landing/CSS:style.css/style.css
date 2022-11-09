@@ -1,0 +1,24 @@
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Albert Sans', sans-serif;
+	font-size: 20px;
+	margin: 0px;
+	font-weight: bolder;
+	background-color: lightblue;
+}
+
+h1, h2, h3 {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bolder;
+}
+
+a {
+	text-decoration: none;
+}
